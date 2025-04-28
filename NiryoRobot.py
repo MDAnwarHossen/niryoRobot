@@ -14,7 +14,7 @@ blue_place_pose = PoseObject(
 red_place_pose = PoseObject(
     0.18, 0.15, 0.15, 3.14, -0.01, -1.5)  # Red goes right
 
-max_failure_count = 3000
+max_failure_count = 3
 
 # - Initialization
 robot = NiryoRobot(robot_ip_address)
